@@ -5,11 +5,11 @@
     <br>
     <b>Small Library to Serve Images in PHP</b>
     <br>
-    <a href="https://ronio.ir">
-        Homepage
+    <a href="https://github.com/Developix-ir/DPXImageServer#key-features">
+        Features
     </a>
     •
-    <a href="https://github.com/Mehranalam/DPXImageServer#documentation">
+    <a href="https://github.com/Developix-ir/DPXImageServer#documentation">
         Documentation
     </a>
     •
