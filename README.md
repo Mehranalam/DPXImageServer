@@ -9,7 +9,7 @@
         Homepage
     </a>
     •
-    <a href="https://mehranalam.github.io/DPXImageServer/">
+    <a href="https://github.com/Mehranalam/DPXImageServer#documentation">
         Documentation
     </a>
     •
