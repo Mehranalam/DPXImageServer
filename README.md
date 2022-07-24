@@ -13,7 +13,7 @@
         Documentation
     </a>
     •
-    <a href="LICENSE">
+    <a href="LICENSE.md">
         License
     </a>
 </p>
