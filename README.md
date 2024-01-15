@@ -1,23 +1,3 @@
-<p align="center">
-    <a href="https://github.com/mehranalam">
-        <img src="Assets/RO.svg" alt="Pyrogram" width="128">
-    </a>
-    <br>
-    <b>Small Library to Serve Images in PHP</b>
-    <br>
-    <a href="https://github.com/mehranalam/DPXImageServer#key-features">
-        Features
-    </a>
-    •
-    <a href="https://github.com/mehranalam/DPXImageServer#documentation">
-        Documentation
-    </a>
-    •
-    <a href="LICENSE.md">
-        License
-    </a>
-</p>
-
 ### DPXImageServer
 
 > Small Library to Serve Images in PHP in a Better Way (Resize, Compress) with Caching Support.
