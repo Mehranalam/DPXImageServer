@@ -1,15 +1,15 @@
 <p align="center">
-    <a href="https://github.com/Developix-ir">
+    <a href="https://github.com/mehranalam">
         <img src="Assets/RO.svg" alt="Pyrogram" width="128">
     </a>
     <br>
     <b>Small Library to Serve Images in PHP</b>
     <br>
-    <a href="https://github.com/Developix-ir/DPXImageServer#key-features">
+    <a href="https://github.com/mehranalam/DPXImageServer#key-features">
         Features
     </a>
     •
-    <a href="https://github.com/Developix-ir/DPXImageServer#documentation">
+    <a href="https://github.com/mehranalam/DPXImageServer#documentation">
         Documentation
     </a>
     •
@@ -36,7 +36,7 @@ A library for serving images and optimizing, changing their sizes, this library 
 - **Optimal**: This library is very optimal due to its small size and consumes very few resources to perform its operations.
 - **Fast**: It has a very high and acceptable speed for performing operations, i.e. changing the size of images, volume of operations and caching operations.
 - **Cache capability**: In computing, a cache is a high-speed data storage layer which stores a subset of data, typically transient in nature, so that future requests for that data are served up faster than is possible by accessing the data’s primary storage location. Caching allows you to efficiently reuse previously retrieved or computed data.
-- **The ability to optimize and reduce the size of images**: In addition to changing the length and width of the photos, this library has the ability to optimize them, just like [smusher](https://smusher.ir/about)
+- **The ability to optimize and reduce the size of images**: In addition to changing the length and width of the photos, this library has the ability to optimize them, just like smusher
 
 
 ## Documentation
