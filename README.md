@@ -2,6 +2,8 @@
 
 > Small Library to Serve Images in PHP in a Better Way (Resize, Compress) with Caching Support.
 
+[![PHP Composer](https://github.com/Mehranalam/DPXImageServer/actions/workflows/php.yml/badge.svg)](https://github.com/Mehranalam/DPXImageServer/actions/workflows/php.yml)
+
 ```PHP
                             ├─ $width ├─ $quality ├─ $cache
 DPXServeImage("image.png", 512, 256, 80, true, true);
