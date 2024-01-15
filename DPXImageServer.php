@@ -1,7 +1,6 @@
 <?php
 /*
-    Author: Erfan Mola
-    https://Developix.ir
+    Author: Mehran Alam Beigi
     Version: 1.0.0
 */
 
